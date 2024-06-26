@@ -1,6 +1,4 @@
-# CPD Projects
-
-CPD Projects of group T01G10. 
+# Parallel Computing Project
 
 Group members:
 
