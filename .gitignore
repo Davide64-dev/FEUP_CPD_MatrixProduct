@@ -1,0 +1,9 @@
+.idea/
+src/*.o
+src/*.hi
+src/*matrixproduct
+src/*matrixproducthaskell
+src/*matrixproduct.js
+src/*node_modules/
+src/*package.json
+src/package-lock.json
